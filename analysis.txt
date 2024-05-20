@@ -1,0 +1,1 @@
+clear() time complexity is O(n) because it will always run through every element or n elements.
